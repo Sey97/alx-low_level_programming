@@ -8,3 +8,4 @@ C - More functions, more nested loops
 6. A function that draws a straight line in the terminal.
 7. A function that draws a diagonal line on the terminal.
 8. A function that prints a square, followed by a new line.
+9. A program that prints the numbers from 1 to 100, followed by a new line
